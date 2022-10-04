@@ -1,4 +1,3 @@
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 ### Hi there 👋, I'm Tommy.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tommy-Layy&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tommy-Layy&theme=github_dark)
